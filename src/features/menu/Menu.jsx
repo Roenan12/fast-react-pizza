@@ -14,10 +14,12 @@ function Menu() {
     </ul>
   );
 }
-// eslint-disable-next-line react-refresh/only-export-components
-export async function loader() {
+
+async function loader() {
   const menu = await getMenu();
   return menu;
 }
+
+Menu.loader = loader;
 
 export default Menu;
