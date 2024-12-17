@@ -19,7 +19,7 @@ A pizza ordering app built with React, Vite, Tailwind CSS, and Redux, designed t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/fast-react-pizza.git
+    git clone https://github.com/Roenan12/fast-react-pizza.git
     ```
 2. Navigate to the project folder:
     ```bash
